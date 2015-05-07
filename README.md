@@ -1,5 +1,5 @@
 PROGRAM: 
-Simulations of waiting queues at an airline check-in counter
+Simulation of waiting queues at an airline check-in counter
 
 DATE: 
 February 21st, 2015
