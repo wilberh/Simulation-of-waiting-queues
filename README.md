@@ -34,5 +34,7 @@ number served in each class, maximum queue length for each type of passenger.
 
 ## WHAT'S INCLUDED
 within the download you'll find the following files:
-- tournament_test.py
-- README.txt
+- Program.cs
+
+## BUGS AND FEATURE REQUESTS
+Have a bug or a feature request? Please open an [issue](https://github.com/wilberh/Swiss-System-Tournament/issues/new).
