@@ -9,10 +9,10 @@ CIS-610-Data Structures and Algorithms
 Intensive study of the fundamentals of data structures and algorithms. Presents the definitions, representations, processing algorithms for data structures, general design and analysis techniques for algorithms. Covers a broad variety of data structures, algorithms and their applications including linked lists, various tree organizations, hash tables, strings, storage allocation, algorithms for searching and sorting, and a selected collection of other algorithms. Programs are assigned to give students experience in algorithms, data structure design and implementation.
 
 -BOOK: 
-  Algorithm Design, by Machel T. Goodrich and Roberto Tamassia
+Algorithm Design, by Machel T. Goodrich and Roberto Tamassia
 
 -PROJECT:
-  CIS-610-SPRING 2015-PROGRAMMING ASSIGNMENT 1
+CIS-610-SPRING 2015-PROGRAMMING ASSIGNMENT 1
 
 This is a simulation of waiting queues at an airline check-in counter, organized as follows, 
 -There are two types of passengers: first clas, and coach.  
