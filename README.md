@@ -40,7 +40,7 @@ within the download you'll find the following files:
 Have a bug or a feature request? Please open an [issue](https://github.com/wilberh/Simulation-of-waiting-queues/issues/new).
 
 ## DOCUMENTATION
-This Simulation-of-waiting-queues documentation included in this repo in the root directory is built with C# in Microsoft Visual Studio 2010.  The included Program.cs file can downloaded and compiled in your local machine using Microsoft Visual Studio.
+This Simulation-of-waiting-queues documentation included in this repo in the root directory was build with C# in Microsoft Visual Studio 2010.  
 
 ## RUNNING DOCUMENTATION LOCALLY
 - 1. If necessary, install Microsoft Visual Studio
