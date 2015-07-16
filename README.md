@@ -45,7 +45,7 @@ This Simulation-of-waiting-queues documentation included in this repo in the roo
 ## RUNNING DOCUMENTATION LOCALLY
 - 1. If necessary, install Microsoft Visual Studio
 - 2. From the root /Simulation-of-waiting-queues directory, compile and run the Program.cs file 
-- 3. The program will prompt the user for the average arrival rates of the passengers, and service time for first class and coach service desk
+- 3. The program will prompt the user for the average arrival rates of the passengers, and service time for first class and coach service desk.  After that the program will generate the average service time, maximum service time, number served in each class, maximum queue length for each type of passenger.
 
 ## CREATOR
 **Wilber Hernandez**
