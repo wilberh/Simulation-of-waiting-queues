@@ -1,7 +1,6 @@
-#PROGRAM: Simulation of waiting queues at an airline check-in counter
+#Simulation of waiting queues at an airline check-in counter
 
-DATE: 
-February 21st, 2015
+-February 21st, 2015
 
 NEW JERSEY INSTITUTE OF TECHNOLOGY (NJIT) COURSE: 
 CIS-610-Data Structures and Algorithms
