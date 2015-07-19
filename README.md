@@ -54,3 +54,5 @@ This Simulation-of-waiting-queues documentation included in this repo in the roo
 **Wilber Hernandez**
 - github.com/wilberh
 - twitter.com/wilberh
+- linkedin.com/in/wilberh
+
